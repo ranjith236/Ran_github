@@ -16,6 +16,10 @@ private static final By HomePageHeader = By.className("header");
 	this.bd=mybd;
 	}
 
+	public void VerifyHomePage()
+	{
+		
+	}
 	public boolean HomePageIsDisplayed()
 	{
 		//bd.waitForElement(HomePageHeader, 10);
