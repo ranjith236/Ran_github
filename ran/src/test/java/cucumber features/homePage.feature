@@ -1,5 +1,6 @@
 @AutomatedRegression
-Feature: As a Online user I Navigate to the webpage and verify the page displayed
+Feature: Navigate to the Homepage and verify that the page displayed
+
 Scenario:
 
 	Given I navigate to the URL
